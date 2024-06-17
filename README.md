@@ -1,2 +1,3 @@
 # util
-A place for utilities shared across the Noisy Sockets projects.
+
+A place for common utilities shared across the Noisy Sockets repositories.
